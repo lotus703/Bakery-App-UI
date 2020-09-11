@@ -1,0 +1,4 @@
+#Fri Sep 11 16:37:32 ICT 2020
+base.0=/home/tinhuynh/Flutter-UI-Project/E-commerce-Complete-Flutter-UI/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
