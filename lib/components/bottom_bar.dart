@@ -3,6 +3,7 @@ import 'package:shop_app/components/badge.dart';
 import 'package:shop_app/constants.dart';
 import 'package:shop_app/screens/account/account_screen.dart';
 import 'package:shop_app/screens/login_success/login_success_screen.dart';
+import 'package:shop_app/screens/store/store_screen.dart';
 import '../screens/home/home_screen.dart';
 
 class BottomBar extends StatefulWidget {
@@ -59,7 +60,7 @@ class _BottomBarState extends State<BottomBar> {
         children: <Widget>[
           HomeScreen(),
           LoginSuccessScreen(),
-          HomeScreen(),
+          StoreScreen(),
           AccountScreen(),
         ],
       ),
